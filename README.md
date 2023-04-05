@@ -18,10 +18,10 @@ Implementation Details
 
 The program uses the java.util.Random class to generate a random number between 1 and 100. It also uses the java.util.Scanner class to accept user input. The number of attempts allowed for each difficulty level is predefined.
 
-Improvements
-
-The game could be further improved by adding additional features, such as a leaderboard to display the highest scores, the option to choose a range of numbers to guess from, and the ability to save the game state to continue playing later.
-
 Contributions
 
 Contributions to this project are welcome. If you have an idea for an improvement, please submit a pull request.
+
+License
+
+This online reservation system is released under the MIT License, which means it is open-source and free to use, modify, and distribute. Please see the LICENSE file for more details. Note: This project may use third-party libraries that are subject to their own licenses. Please refer to the respective license files of those libraries for more information.
