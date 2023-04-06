@@ -29,7 +29,7 @@ public class NumberGuessingGame {
 				while (true) {
 					int user_input;
 					do {
-						System.out.println("Invalid, Enter a number between 1 and 100: ");
+						System.out.println("Enter a number between 1 and 100: ");
 						user_input = sc.nextInt();
 					} while (user_input < 1 || user_input > 100);
 					if (easy > tryCount) {
@@ -65,7 +65,7 @@ public class NumberGuessingGame {
 				while (true) {
 					int user_input;
 					do {
-						System.out.println("Invalid, Enter a number between 1 and 100: ");
+						System.out.println("Enter a number between 1 and 100: ");
 						user_input = sc.nextInt();
 					} while (user_input < 1 || user_input > 100);
 					if (medium > tryCount) {
@@ -101,7 +101,7 @@ public class NumberGuessingGame {
 				while (true) {
 					int user_input;
 					do {
-						System.out.println("Invalid, Enter a number between 1 and 100: ");
+						System.out.println("Enter a number between 1 and 100: ");
 						user_input = sc.nextInt();
 					} while (user_input < 1 || user_input > 100);
 
